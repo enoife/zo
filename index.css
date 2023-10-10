@@ -1,0 +1,235 @@
+body{
+  background-color: aqua;
+}
+.newyork{
+  background-image: url(R.jfif);
+  height: 40px;
+  width: 80%;
+  text-align: left;
+  line-height: 10px;
+  padding: 80px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: white;
+  color: white;
+  border: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.new{
+  display: block;
+  height: 30px;
+  width: 93%;
+  text-align: left;
+  line-height: 10px;
+  background-color: #242124;
+  color: #ffffff;
+  border: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdownn {
+  float: right;
+  overflow: hidden;
+}
+
+.dropdownn .dropbtnn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 2;
+}
+
+.navbar a:hover, .dropdownn:hover .dropbtnn {
+  background-color: black;
+}
+
+.ddropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.ddropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+}
+
+.ddropdown-content a:hover {
+  background-color: #ddd;
+}
+.dropdownn:hover .ddropdown-content {
+  display: block;
+}
+.dropdoownn {
+  float: right;
+  overflow: hidden;
+}
+
+.dropdoownn .dropbttnn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 2;
+}
+
+.navbar a:hover, .dropdoownn:hover .dropbttnn {
+  background-color: black;
+}
+
+.ddropdown-conntent {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.ddropdown-conntent a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+}
+
+.ddropdown-conntent a:hover {
+  background-color: #ddd;
+}
+.dropdoownn:hover .ddropdown-conntent {
+  display: block;
+}
+.dropdoown {
+  float: right;
+  overflow: hidden;
+}
+
+.dropdoown .dropbttn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 2;
+}
+
+.navbar a:hover, .dropdoown:hover .dropbttn {
+  background-color: black;
+}
+
+.-conntent {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.-conntent a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+}
+
+.-conntent a:hover {
+  background-color: #ddd;
+}
+.dropdoownn:hover .-conntent {
+  display: block;
+}
+aside{
+  width: 30%;
+  float: right;
+  padding-left: 20px;
+  margin-left: 20px;
+  height: 100vh;
+  background-color: black;
+}
+.mana{
+  background-color: black;
+  height: 125px;
+  width: 500px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.man{
+  background-color: black;
+  height: 900px;
+  width: 500px;
+enter;
+  background-color: black;
+  color: white;
+}
